@@ -1,0 +1,15 @@
+EXECUTOR 1 = Executors.Reader
+EXECUTOR 2 = Executors.Coding
+EXECUTOR 3 = Executors.Writer
+
+NUM_EXECUTORS = 3
+
+READER_INPUT = output
+
+CONFIGURATION 1 = readerconfig
+
+WRITER_OUTPUT = encoded
+
+CONFIGURATION 3 = writerconfig
+
+CONFIGURATION 2 = firstconf

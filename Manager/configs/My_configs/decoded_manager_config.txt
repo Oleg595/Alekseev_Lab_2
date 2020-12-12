@@ -1,0 +1,15 @@
+EXECUTOR 1 = Executors.Reader
+EXECUTOR 2 = Executors.Coding
+EXECUTOR 3 = Executors.Writer
+
+NUM_EXECUTORS = 3
+
+READER_INPUT = output
+
+CONFIGURATION 1 = configs\My_configs\readerconfig
+
+WRITER_OUTPUT = encoded
+
+CONFIGURATION 3 = configs\My_configs\writerconfig
+
+CONFIGURATION 2 = configs\My_configs\firstconf

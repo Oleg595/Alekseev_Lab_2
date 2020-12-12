@@ -1,0 +1,2 @@
+MODE = DECODING
+FILE = Configs\data
